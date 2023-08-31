@@ -1,3 +1,8 @@
+# Information about this fork
+This is a fork of `git-email`, which incorporates all the patches from the
+mailing list that I deemed desirable. I did not document which patches I
+applied but if you want to know, open an issue about it.
+
 # Introduction
 `git-email` integrates git and email with Emacs, it offers two main
 functions for sending email with git.
